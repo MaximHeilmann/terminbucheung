@@ -172,10 +172,10 @@ Dieses Projekt steht unter der MIT-Lizenz. Siehe `LICENSE` Datei für Details.
 
 ## 👨‍💻 Entwickelt von
 
-**[Ihr Name]**
-- 💼 [LinkedIn](https://linkedin.com/in/ihr-profile)
-- 🐙 [GitHub](https://github.com/ihr-username)
-- 📧 [E-Mail](mailto:ihre-email@example.com)
+**[Maxim Heilmann]**
+- 💼 [LinkedIn](https://www.linkedin.com/in/maxim-heilmann)
+- 🐙 [GitHub](https://github.com/MaximHeilmann)
+- 📧 [E-Mail](mailto:maxim.heilmann@gmx.de)
 
 ---
 
